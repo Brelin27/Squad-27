@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("/D - RODAPE/rodape.html")
+  fetch("/D - Rodape/rodape.html")
     .then(response => {
       if (!response.ok) {
         throw new Error(`Erro ao carregar rodapé: ${response.status}`);

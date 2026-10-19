@@ -313,6 +313,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Botao confirmacao
 document.querySelector(".continue-button.confirmation-button").addEventListener("click", function () {
-    window.location.href = "../../6 - TELA_USUARIO/telas/index.html";
+    window.location.href = "/6 - TELA_USUARIO/Telas/index.html";
     });
-
