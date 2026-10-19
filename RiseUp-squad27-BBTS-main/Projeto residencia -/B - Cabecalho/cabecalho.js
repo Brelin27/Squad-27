@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("/B - CABECALHO/cabecalho.html")
+  fetch("/B - Cabecalho/cabecalho.html")
     .then(res => res.text())
     .then(html => {
       document.body.insertAdjacentHTML("afterbegin", html);
@@ -24,9 +24,4 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     })
     .catch(err => console.error("Erro ao carregar cabeçalho:", err));
-});
-
-//botao acessar
-document.querySelector(".access-btn").addEventListener("click", function () {
-    window.location.href = "../../2 - LOGIN/Telas_login/cadastrar.html"; // coloque aqui a página desejada
 });

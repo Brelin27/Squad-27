@@ -317,5 +317,5 @@ if (currentPage === "revisao.html") {
 
 // Botao confirmacao
 document.querySelector(".continue-button.confirmation-button").addEventListener("click", function () {
-    window.location.href = "../../5 - TELA_STARTUP/telas/index.html";
+    window.location.href = "/5 - TELA_STARTUP/telas/index.html";
     });

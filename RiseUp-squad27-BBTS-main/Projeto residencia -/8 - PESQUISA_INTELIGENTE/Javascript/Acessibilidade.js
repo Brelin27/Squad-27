@@ -203,38 +203,38 @@
       <div style="left:88px;top:27px;position:absolute;font-size:24px;font-weight:600;">Ferramentas de <br/>Acessibilidade</div>
 
       <div style="position:absolute;left:36px;top:120px;display:flex;flex-direction:column;gap:18px;width:252px">
-        <button data-action="increase" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left"> 
-          <img class="access-icon" src="../../A - Acessibilidade/img/icone-aumentar-texto.png" alt="aumentar" />
+        <button data-action="increase" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left">
+          <img class="access-icon" src="/A - Acessibilidade/img/icone-aumentar-texto.png" alt="aumentar" />
           <span>Aumentar texto</span>
         </button>
 
-        <button data-action="decrease" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left"> 
-          <img class="access-icon" src="../../A - Acessibilidade/img/icone-diminuir-texto.png" />
+        <button data-action="decrease" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left">
+          <img class="access-icon" src="/A - Acessibilidade/img/icone-diminuir-texto.png" />
           <span>Diminuir texto</span>
         </button>
 
-        <button data-action="grayscale" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left"> 
-          <img class="access-icon" src="../../A - Acessibilidade/img/icone-escala-cinza.png" />
+        <button data-action="grayscale" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left">
+          <img class="access-icon" src="/A - Acessibilidade/img/icone-escala-cinza.png" />
           <span>Escala de cinza</span>
         </button>
 
-        <button data-action="contrast" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left"> 
-          <img class="access-icon" src="../../A - Acessibilidade/img/icone-fundo-claro.png" alt="alto-contraste" />
+        <button data-action="contrast" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left">
+          <img class="access-icon" src="/A - Acessibilidade/img/icone-fundo-claro.png" alt="alto-contraste" />
           <span>Alto contraste</span>
         </button>
 
-        <button data-action="invert" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left"> 
-          <img class="access-icon" src="../../A - Acessibilidade/img/icone-contraste-negativo.png" alt="contraste-negativo" />
+        <button data-action="invert" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left">
+          <img class="access-icon" src="/A - Acessibilidade/img/icone-contraste-negativo.png" alt="contraste-negativo" />
           <span>Contraste negativo</span>
         </button>
 
-        <button data-action="fundo-claro" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left"> 
-          <img class="access-icon" src="../../A - Acessibilidade/img/icone-fundo-claro.png" alt="fundo-claro" />
+        <button data-action="fundo-claro" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left">
+          <img class="access-icon" src="/A - Acessibilidade/img/icone-fundo-claro.png" alt="fundo-claro" />
           <span>Fundo claro</span>
         </button>
 
-        <button data-action="reset" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left"> 
-          <img class="access-icon" src="../../A - Acessibilidade/img/icone-redefinir.png" alt="redefinir" />
+        <button data-action="reset" style="display:flex;align-items:center;gap:14px;padding:8px;border:0;background:transparent;cursor:pointer;font-size:20px;text-align:left">
+          <img class="access-icon" src="/A - Acessibilidade/img/icone-redefinir.png" alt="redefinir" />
           <span>Redefinir</span>
         </button>
       </div>
